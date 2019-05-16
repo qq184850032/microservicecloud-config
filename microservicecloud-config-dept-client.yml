@@ -12,7 +12,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: org.gjt.mm.mysql.Driver              # mysql链接驱动
-    url: jdbc:mysql://119.23.207.120:3306/zhaohui1?autoReconnect=true&amp;rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
+    url: jdbc:mysql://119.23.207.120:3306/zhaohui3?autoReconnect=true&amp;rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
     username: user
     password: user
     dbcp2:
@@ -53,7 +53,7 @@ spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
     driver-class-name: org.gjt.mm.mysql.Driver              # mysql链接驱动
-    url: jdbc:mysql://119.23.207.120:3306/zhaohui1?autoReconnect=true&amp;rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
+    url: jdbc:mysql://119.23.207.120:3306/zhaohui2?autoReconnect=true&amp;rewriteBatchedStatements=true&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&allowMultiQueries=true
     username: user
     password: user
     dbcp2:
